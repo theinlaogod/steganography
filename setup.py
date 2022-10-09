@@ -1,3 +1,4 @@
+# Лев Дорошенко ИБ/б-21-1-о
 from setuptools import setup
 from steganography import __version__
 import os
